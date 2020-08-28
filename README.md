@@ -8,5 +8,5 @@
 ---- 
 #### Want to learn more?
 - 📃 Check out my [resumé](https://github.com/codycodes/codycodes.github.io/raw/master/assets/cody_antonio_gagnon_resume.pdf)
-- 🖼 Take a look at my [portfolio](https://cody.codes).
+- 🖼 Take a look at my [portfolio](https://cody.codes)
 - 📫 Connect with me on LinkedIn: [/in/codyantoniogagnon](https://linkedin.com/in/codyantoniogagnon)
