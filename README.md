@@ -1,4 +1,5 @@
 ### Hi there 👋
+- 🚤 I'm currently working as a Cloud Engineer for Mercury Marine!
 - 👨🏼‍🎓 I’m a recent grad from University of Washington's interdisciplinary GIX program!
 - 🛩 For our capstone w/Microsoft & Port of Seattle, we developed a prototype to reduce greenhouse gases by 27,000lbs/year for docked planes.
 - 😎 I have a unique background with a degree in IT Networking and experience in cloud engineering, Python, Linux, Java, and JavaScript.
