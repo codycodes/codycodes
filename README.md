@@ -1,11 +1,11 @@
 ### Hi there 👋
-- 🚤 I'm currently working as a Cloud Engineer for Mercury Marine!
-- 👨🏼‍🎓 I’m a recent grad from University of Washington's interdisciplinary GIX program!
-- 🛩 For our capstone w/Microsoft & Port of Seattle, we developed a prototype to reduce greenhouse gases by 27,000lbs/year for docked planes.
-- 😎 I have a unique background with a degree in IT Networking and experience in cloud engineering, Python, Linux, Java, and JavaScript.
-- 👷🏼 I have an affinity for makerspaces and making things (prev. Maker Space @ UW's Global Innovation Exchange.)
-- 🌱 I'm learning as much about data structures & algorithms as possible w/[AlgoExpert](https://algoexpert.io).
-- 🏡 And I'm also a big fan of [Home Assistant](https://home-assistant.io), IoT, and open source software in general.
+- 🚤 Cloud Engineer @ [Mercury Marine](https://www.mercurydigitalservices.com/)!
+- 👨🏼‍🎓 Master of Science in Technology Innovation @ [University of Washington GIX](https://gix.uw.edu/)!
+- 🧑🏼‍💻 Intersection of IoT & Cloud
+- 😎 Background in networking, cloud + software engineering
+- 💡 Believer in "[IT as Code](https://news.sophos.com/en-us/2021/08/03/sophos-acquires-refactr/)"
+- 👷🏼 Affinity for makerspaces and the [world's greatest show & tell](https://makerfaire.com/)
+- 🏡 [Home Assistant](https://home-assistant.io), IoT, and open source software in general
 ---- 
 #### Want to learn more?
 - 📃 Check out my [resumé](https://github.com/codycodes/codycodes.github.io/raw/master/assets/cody_antonio_gagnon_resume.pdf)
