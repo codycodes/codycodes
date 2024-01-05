@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🚤 Cloud Engineer @ [Mercury Marine](https://www.mercurydigitalservices.com/)!
+- 🚚 Cloud IoT Engineer @ [Oshkosh Corporation](https://www.oshkoshcorp.com/)!
 - 👨🏼‍🎓 Master of Science in Technology Innovation @ [University of Washington GIX](https://gix.uw.edu/)!
 - 🧑🏼‍💻 Intersection of IoT & Cloud
 - 😎 Background in networking, cloud + software engineering
