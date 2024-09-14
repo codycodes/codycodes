@@ -7,6 +7,8 @@
 - 👷🏼 Affinity for makerspaces and the [world's greatest show & tell](https://makerfaire.com/)
 - 🏡 [Home Assistant](https://home-assistant.io), IoT, and open source software in general
 ---- 
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
 #### Want to learn more?
 - 📃 Check out my [resumé](https://github.com/codycodes/codycodes.github.io/raw/master/assets/cody_antonio_gagnon_resume.pdf)
 - 🖼 Take a look at my [portfolio](https://cody.codes)
