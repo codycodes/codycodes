@@ -5,5 +5,5 @@
 <!--START_SECTION:badges-->
 <!--END_SECTION:badges-->
 #### Want to learn more?
-- 🖼 Take a look at my [portfolio](https://cody.codes)
+- 🖼 Take a look at my recent projects: [https://cody.codes](https://cody.codes)
 - 📫 Connect with me on LinkedIn: [/in/codyantoniogagnon](https://linkedin.com/in/codyantoniogagnon)
