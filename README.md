@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🚚 Senior Cloud Engineer @ [Oshkosh Corporation](https://www.oshkoshcorp.com/)
+- 🚚 Lead Cloud Engineer @ [Oshkosh Corporation](https://www.oshkoshcorp.com/)
 - 👨🏼‍🎓 Master of Science in Technology Innovation @ [University of Washington GIX](https://gix.uw.edu/)
 ---- 
 <!--START_SECTION:badges-->
